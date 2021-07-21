@@ -1,5 +1,5 @@
 # image-upload-nodejs
-image-upload-nodejs
+image upload using nodejs ejs and multer
 
 An example of how to upload images locally with Node.js and Multer.
 
@@ -13,7 +13,7 @@ An example of how to upload images locally with Node.js and Multer.
 Install the dependencies
 
 ```sh
-$ npm install
+$ npm i
 ```
 
 ### Serve
